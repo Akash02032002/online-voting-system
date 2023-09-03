@@ -1,6 +1,10 @@
 # << online-voting-system >>
 
-<img width="960" alt="Screenshot 2023-09-03 162805" src="https://github.com/Akash02032002/online-voting-system/assets/84145371/fefaaa11-571e-496b-8d15-aff83dcd2960">
+
+<img width="598" alt="Screenshot 2023-09-03 165458" src="https://github.com/Akash02032002/online-voting-system/assets/84145371/764d7cbd-3e48-4f3b-a338-7585dcb9914b">
+
+<img width="960" alt="Screenshot 2023-09-03 162805" src="https://gith![Uploading Screenshot 2023-09-03 165458.png…]()
+ub.com/Akash02032002/online-voting-system/assets/84145371/fefaaa11-571e-496b-8d15-aff83dcd2960">
 
 <img width="960" alt="Screenshot 2023-09-03 162855" src="https://github.com/Akash02032002/online-voting-system/assets/84145371/f1c29ae9-7526-43e3-8e74-79eac02e8d02">
 
