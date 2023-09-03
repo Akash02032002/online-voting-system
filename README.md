@@ -7,8 +7,12 @@
 <img width="960" alt="Screenshot 2023-09-03 162805" src="https://github.com/Akash02032002/online-voting-system/assets/84145371/acc56866-79a6-4d80-8e07-030bd84ae968">
 
 
-<img width="960" alt="Screenshot 2023-09-03 162855" src="https://github.com/Akash02032002/online-voting-system/assets/84145371/f1c29ae9-7526-43e3-8e74-79eac02e8d02">
+<img width="960" alt="Screenshot 2023-09-04 000720" src="https://github.com/Akash02032002/online-voting-system/assets/84145371/aef5c2ed-3faa-42d5-a18a-ff9b53df163d">
 
+
+## Live Hosted Website Link :-
+
+http://votingverse.great-site.net/
 
 # Introduction
 Online voting system is a web application which is developed to conduct election process through internet. This application is made in PHP and MySQL. It is divided into two modules.
